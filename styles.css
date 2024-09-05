@@ -18,7 +18,7 @@
   }
   
   .construction-text {
-    font-size: 4rem;
+    font-size: 5rem;
     color: rgb(4, 18, 39);
     text-transform: uppercase;
     animation: pulse 2s infinite;
@@ -30,7 +30,7 @@
       opacity: 1;
     }
     50% {
-      transform: scale(1.1);
+      transform: scale(1.02);
       opacity: 0.8;
     }
     100% {
